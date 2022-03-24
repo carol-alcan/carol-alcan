@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Carol Alcan
 
-- 🌱 Estudando front-end
+- 🌱 Estudando
 - 😄 Pronouns: ela/dela
 
 <div align="center">
